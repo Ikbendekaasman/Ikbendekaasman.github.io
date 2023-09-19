@@ -9,28 +9,27 @@
  </header>
  <section>
  <h2>Over Mij</h2>
- <p>Vertel iets over jezelf, zoals je naam, leeftijd, hobby's, en interesses.</p>
+ <p>Ik ben Casper, ik ben 13 jaar oud en jarig op 27 oktober. Mijn hobbies staan hier onder.</p>
  </section>
  <section>
  <h2>Mijn Favoriete Vakken</h2>
  <ul>
- <li>Eerste favoriete vak</li>
- <li>Tweede favoriete vak</li>
- <li>Derde favoriete vak</li>
+ <li>muziek</li>
+ <li>programmeren</li>
+ <li>NaSk</li>
  </ul>
  </section>
  <section>
  <h2>Mijn Hobby's</h2>
  <ol>
- <li>Eerste hobby</li>
- <li>Tweede hobby</li>
- <li>Derde hobby</li>
+ <li>Gamen</li>
+ <li>muziek luisteren/maken</li>
+ <li>eten</li>
  </ol>
  </section>
  <footer>
  <p>Contactgegevens: <a
-href="mailto:je@emailadres@example.com">je@emailadres@example.com</a></p>
+href="Casper.lemmers@outlook.com">casper.lemmers@outlook.com</a></p>
  </footer>
 </body>
 </html>
-Pas de tekst
