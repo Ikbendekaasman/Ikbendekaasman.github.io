@@ -1,0 +1,48 @@
+}
+
+h1 {
+  color: blue;
+  margin-left: 40px;
+}
+</style>
+ <title>Mijn Persoonlijke Webpagina</title>
+</head>
+<body>
+ <header>
+ <h1>Mijn Persoonlijke Webpagina</h1>
+ </header>
+ <section>
+ <h2>De nederlandse muziek tierlist :D</h2>
+ <p>Yoyoyo ik maak veel te veel paginas lmao</p>
+ </section>
+ <section>
+ <h2>De top 3</h2>
+ <ul>
+ <li>msn</li>
+ <li>ceo van saaf</li>
+ <img src="vlgs"  ch">
+ <li>stay in the game</li>
+ </ul>
+ </section>
+ <section>
+ <h2>de top -3</h2>
+ <ol>
+ <li>elk antoon lied ooit</li>
+ <li>de oma rap</li>
+ <li>de top 100 van banjo
+<img src="trash.jpg" alt="trash">
+ </ol>
+ </section>
+ <versie1 class="0"></versie1>
+ <footer>
+ <p>Contactgegevens: <a
+href="mailto: Casper.lemmers@outlook.com">casper.lemmers@outlook.com</a></p>
+ </footer>
+  <nav>
+ <ul>
+ <li><a href="mijnwebpagina.html">Home</a></li>
+ <li><a href="Pagina2.html">Pagina 2</a></li>
+ </ul>
+</nav>
+</body>
+</html>
