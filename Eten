@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+ <link rel="stylesheet" type="text/css" href="styles.css">
+ <style>
+  nav {
+ background-color: #333; /* Achtergrondkleur */
+ padding: 10px; /* Ruimte rondom het menu */
+}
+body {
+  background-color: purple;
+}
+
+h1 {
+  color: blue;
+  margin-left: 40px;
+}
+</style>
+ <title>Mijn Persoonlijke Webpagina</title>
+</head>
+<body>
+ <header>
+ <h1>Mijn Persoonlijke Webpagina</h1>
+ </header>
+ <section>
+ <h2>de eten tierlist >:)</h2>
+ <p>Yoyoyo dit is nog een paginaaaa</p>
+ </section>
+ <section>
+ <h2>De top 3</h2>
+ <ul>
+ <li>pizza</li>
+ <li>flammkuchen</li>
+ <img src="flamkuch.jpg" alt="flamkuch">
+ <li>gebakken aardappels</li>
+ </ul>
+ </section>
+ <section>
+ <h2>de top -3</h2>
+ <ol>
+ <li>witlof</li>
+ <li>andijvie stamppot</li>
+ <li>spruitjes</li>
+<img src="trash.jpg" alt="trash">
+ </ol>
+ </section>
+ <versie1 class="0"></versie1>
+ <footer>
+ <p>Contactgegevens: <a
+href="mailto: Casper.lemmers@outlook.com">casper.lemmers@outlook.com</a></p>
+ </footer>
+  <nav>
+ <ul>
+ <li><a href="mijnwebpagina.html">Home</a></li>
+ <li><a href="Pagina2.html">Pagina 2</a></li>
+ </ul>
+</nav>
+</body>
+</html>
